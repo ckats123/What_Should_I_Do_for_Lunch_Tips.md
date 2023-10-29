@@ -2,6 +2,11 @@
 
 import React from "react"; //optional
 import Match from "./Match";
+import matchData from "../data/matchData";
+
+function MatchList(props) {
+  // ...
+}
 
 function MatchList() {
   return (
